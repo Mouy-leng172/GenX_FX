@@ -163,7 +163,7 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.dev-dependencies]
 black = "==23.12.1"
 flake8 = "==6.1.0"
-isort = "==5.13.2"
+isort = "==6.1.0"
 bandit = "==1.8.6"
 mypy = ">=1.18.2,<2.0.0"
 pip-audit = ">=2.9.0,<3.0.0"
