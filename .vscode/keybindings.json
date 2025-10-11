@@ -1,0 +1,86 @@
+[
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+shift+`",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },
+    {
+        "key": "ctrl+shift+p",
+        "command": "workbench.action.showCommands"
+    },
+    {
+        "key": "ctrl+shift+f",
+        "command": "workbench.action.findInFiles"
+    },
+    {
+        "key": "ctrl+shift+h",
+        "command": "workbench.action.replaceInFiles"
+    },
+    {
+        "key": "alt+up",
+        "command": "editor.action.moveLinesUpAction"
+    },
+    {
+        "key": "alt+down", 
+        "command": "editor.action.moveLinesDownAction"
+    },
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.addSelectionToNextFindMatch"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "editor.action.selectHighlights"
+    },
+    {
+        "key": "ctrl+/",
+        "command": "editor.action.commentLine"
+    },
+    {
+        "key": "ctrl+shift+/",
+        "command": "editor.action.blockComment"
+    },
+    {
+        "key": "f2",
+        "command": "editor.action.rename"
+    },
+    {
+        "key": "f12",
+        "command": "editor.action.revealDefinition"
+    },
+    {
+        "key": "ctrl+f12",
+        "command": "editor.action.goToImplementation"
+    },
+    {
+        "key": "shift+f12",
+        "command": "editor.action.goToReferences"
+    },
+    {
+        "key": "ctrl+shift+o",
+        "command": "workbench.action.gotoSymbol"
+    },
+    {
+        "key": "ctrl+t",
+        "command": "workbench.action.showAllSymbols"
+    },
+    {
+        "key": "ctrl+shift+e",
+        "command": "workbench.view.explorer"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "workbench.view.scm"
+    },
+    {
+        "key": "ctrl+shift+d",
+        "command": "workbench.view.debug"
+    },
+    {
+        "key": "ctrl+shift+x",
+        "command": "workbench.view.extensions"
+    }
+]
